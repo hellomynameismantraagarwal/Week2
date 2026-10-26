@@ -5,7 +5,7 @@ WHAT TO BUILD (in this order):
 2. Implement HSV color space transformations for robust color filtering. done
 3. Apply Gaussian blur to reduce image noise. done
 4. Apply Canny edge detection to identify lane boundaries. done
-5. Apply Region of Interest (ROI) masking to isolate the road area. 
+5. Apply Region of Interest (ROI) masking to isolate the road area. done
 REQUIREMENTS:
 * Implement the processing pipeline in a clean Python script.
 * Push your complete script to your personal GitHub repository.
